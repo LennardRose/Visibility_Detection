@@ -1,0 +1,6 @@
+{
+  "csv_path" : "data/car_imgs_4000.csv",
+  "img_path" : "data/imgs/",
+  "model_dir" : "models/",
+  "test_img_path" : "data/imgs/test_imgs"
+}
